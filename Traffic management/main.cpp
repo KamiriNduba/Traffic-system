@@ -1,11 +1,10 @@
+#include<bits/stdc++.h>
 #include <fstream>
-#include <bits/stdc++.h>
 #include <chrono> //for delay
 #include <stdlib.h>
 #include<ctime>
 
 
-// ***** Smart Traffic Management Solution *****
 
 //keep the record of vehicles                      == recOfVeh()
 //keep the record of challan done                  == recOfChall()
@@ -856,5 +855,5 @@ int main()
     SmartTrafficManagementSystem ob1;
     ob1.welcome();
 
-    //all rights reserved  ©rudrakaniya || CSEBaba
 }
+
